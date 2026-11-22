@@ -72,7 +72,7 @@ void iniciarRegistroBatalha(void) {
     data = ctime(&agora);
 
     fprintf(arquivoBatalha,
-            "\n\n========================================\n");
+        "\n\n========================================\n");
     fprintf(arquivoBatalha, "REGISTRO DE BATALHA\n");
 
     if (data != NULL) {
