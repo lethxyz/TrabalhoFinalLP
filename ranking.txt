@@ -1,0 +1,6 @@
+Carlos 25
+Ana 22
+Beatriz 15
+Diego 10
+Clara 10
+Elisa 5

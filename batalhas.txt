@@ -1,0 +1,1995 @@
+
+
+========================================
+REGISTRO DE BATALHA
+Data: Sat Nov 21 20:06:18 2026
+========================================
+
+========== NOVA BATALHA ==========
+
+===== JOGADOR: ESCOLHA 3 MONSTROS =====
+
+1 - Vulkarn
+Tipo: Fogo
+HP: 100/100
+Habilidades:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+----------------------
+
+2 - Aquoryn
+Tipo: Agua
+HP: 100/100
+Habilidades:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+----------------------
+
+3 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+Habilidades:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+----------------------
+
+4 - Noctyra
+Tipo: Trevas
+HP: 100/100
+Habilidades:
+1 - Shadow Claw | Dano: 28
+2 - Abyssal Bite | Dano: 42
+----------------------
+
+5 - Florantis
+Tipo: Natureza
+HP: 100/100
+Habilidades:
+1 - Thorn Shot | Dano: 25
+2 - Carnivorous | Dano: 45
+----------------------
+
+6 - Cryonox
+Tipo: Gelo
+HP: 100/100
+Habilidades:
+1 - Frost Claw | Dano: 32
+2 - Absolute Zero | Dano: 48
+----------------------
+
+7 - Drakthor
+Tipo: Terra
+HP: 100/100
+Habilidades:
+1 - Boulder Smash | Dano: 30
+2 - Earthquake | Dano: 45
+----------------------
+Escolha um monstro (1 a 7): Escolha registrada: Rokke
+Rokke foi adicionado a equipe.
+Escolha um monstro (1 a 7): Escolha registrada: Drakthor
+Drakthor foi adicionado a equipe.
+Escolha um monstro (1 a 7): Escolha registrada: Noctyra
+Noctyra foi adicionado a equipe.
+
+===== EQUIPE DO JOGADOR =====
+
+1 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+----------------------
+
+2 - Drakthor
+Tipo: Terra
+HP: 100/100
+----------------------
+
+3 - Noctyra
+Tipo: Trevas
+HP: 100/100
+----------------------
+
+===== EQUIPE DO CPU =====
+
+1 - Aquoryn
+Tipo: Agua
+HP: 100/100
+----------------------
+
+2 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+----------------------
+
+3 - Vulkarn
+Tipo: Fogo
+HP: 100/100
+----------------------
+
+========== INICIO DA BATALHA ==========
+
+========== STATUS ==========
+Rokke: 100/100 HP VS Aquoryn: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+Digite sua escolha: Habilidade escolhida: Rolling Thunder
+
+Rokke usou Rolling Thunder!
+Aquoryn recebeu 50 de dano!
+HP restante de Aquoryn: 50/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Rokke: 100/100 HP VS Aquoryn: 50/100 HP
+============================
+
+Aquoryn do adversario usou Aqua Spear!
+Rokke recebeu 25 de dano!
+HP restante de Rokke: 75/100
+
+========== STATUS ==========
+Rokke: 75/100 HP VS Aquoryn: 50/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+Digite sua escolha: Habilidade escolhida: Rolling Thunder
+
+Rokke usou Rolling Thunder!
+Aquoryn recebeu 50 de dano!
+HP restante de Aquoryn: 0/100
+
+Aquoryn foi derrotado!
+
+O adversario enviou Rokke!
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Rokke: 75/100 HP VS Rokke: 75/100 HP
+============================
+
+Rokke do adversario usou Thunderstorm!
+Rokke recebeu 35 de dano!
+HP restante de Rokke: 40/100
+
+========== STATUS ==========
+Rokke: 40/100 HP VS Rokke: 40/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+Digite sua escolha: Habilidade escolhida: Rolling Thunder
+
+Rokke usou Rolling Thunder!
+Rokke recebeu 50 de dano!
+HP restante de Rokke: 0/100
+
+Rokke foi derrotado!
+
+O adversario enviou Vulkarn!
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Rokke: 0/100 HP VS Vulkarn: 100/100 HP
+============================
+
+Vulkarn do adversario usou Lava Burst!
+Rokke recebeu 30 de dano!
+HP restante de Rokke: 0/100
+
+Rokke foi derrotado!
+
+===== ESCOLHA SEU PROXIMO MONSTRO =====
+2 - Drakthor | HP: 100/100
+3 - Noctyra | HP: 100/100
+Escolha: Entrada invalida! Digite um numero entre 1 e 3.
+Escolha: Entrada invalida! Digite um numero entre 1 e 3.
+Escolha: Entrada invalida! Digite um numero entre 1 e 3.
+Escolha: 
+
+========================================
+REGISTRO DE BATALHA
+Data: Sat Nov 21 20:22:16 2026
+========================================
+
+========== NOVA BATALHA ==========
+
+===== JOGADOR: ESCOLHA 3 MONSTROS =====
+
+1 - Vulkarn
+Tipo: Fogo
+HP: 100/100
+Habilidades:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+----------------------
+
+2 - Aquoryn
+Tipo: Agua
+HP: 100/100
+Habilidades:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+----------------------
+
+3 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+Habilidades:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+----------------------
+
+4 - Noctyra
+Tipo: Trevas
+HP: 100/100
+Habilidades:
+1 - Shadow Claw | Dano: 28
+2 - Abyssal Bite | Dano: 42
+----------------------
+
+5 - Florantis
+Tipo: Natureza
+HP: 100/100
+Habilidades:
+1 - Thorn Shot | Dano: 25
+2 - Carnivorous | Dano: 45
+----------------------
+
+6 - Cryonox
+Tipo: Gelo
+HP: 100/100
+Habilidades:
+1 - Frost Claw | Dano: 32
+2 - Absolute Zero | Dano: 48
+----------------------
+
+7 - Drakthor
+Tipo: Terra
+HP: 100/100
+Habilidades:
+1 - Boulder Smash | Dano: 30
+2 - Earthquake | Dano: 45
+----------------------
+Escolha um monstro (1 a 7): Escolha registrada: Vulkarn
+Vulkarn foi adicionado a equipe.
+Escolha um monstro (1 a 7): Escolha registrada: Aquoryn
+Aquoryn foi adicionado a equipe.
+Escolha um monstro (1 a 7): Escolha registrada: Rokke
+Rokke foi adicionado a equipe.
+
+===== EQUIPE DO JOGADOR =====
+
+1 - Vulkarn
+Tipo: Fogo
+HP: 100/100
+----------------------
+
+2 - Aquoryn
+Tipo: Agua
+HP: 100/100
+----------------------
+
+3 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+----------------------
+
+===== EQUIPE DO CPU =====
+
+1 - Aquoryn
+Tipo: Agua
+HP: 100/100
+----------------------
+
+2 - Drakthor
+Tipo: Terra
+HP: 100/100
+----------------------
+
+3 - Florantis
+Tipo: Natureza
+HP: 100/100
+----------------------
+
+========== INICIO DA BATALHA ==========
+
+========== STATUS ==========
+Vulkarn: 100/100 HP VS Aquoryn: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Vulkarn:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+Digite sua escolha: Habilidade escolhida: Inferno Crush
+
+Vulkarn usou Inferno Crush!
+Aquoryn recebeu 45 de dano!
+HP restante de Aquoryn: 55/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Vulkarn: 100/100 HP VS Aquoryn: 55/100 HP
+============================
+
+Aquoryn do adversario usou Tsunami Fang!
+Vulkarn recebeu 40 de dano!
+HP restante de Vulkarn: 60/100
+
+========== STATUS ==========
+Vulkarn: 60/100 HP VS Aquoryn: 55/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Vulkarn:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+Digite sua escolha: Habilidade escolhida: Inferno Crush
+
+Vulkarn usou Inferno Crush!
+Aquoryn recebeu 45 de dano!
+HP restante de Aquoryn: 10/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Vulkarn: 60/100 HP VS Aquoryn: 10/100 HP
+============================
+
+Aquoryn do adversario usou Tsunami Fang!
+Vulkarn recebeu 40 de dano!
+HP restante de Vulkarn: 20/100
+
+========== STATUS ==========
+Vulkarn: 20/100 HP VS Aquoryn: 10/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Vulkarn:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+Digite sua escolha: Habilidade escolhida: Lava Burst
+
+Vulkarn usou Lava Burst!
+Aquoryn recebeu 30 de dano!
+HP restante de Aquoryn: 0/100
+
+Aquoryn foi derrotado!
+
+O adversario enviou Drakthor!
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Vulkarn: 20/100 HP VS Drakthor: 100/100 HP
+============================
+
+Drakthor do adversario usou Earthquake!
+Vulkarn recebeu 45 de dano!
+HP restante de Vulkarn: 0/100
+
+Vulkarn foi derrotado!
+
+===== ESCOLHA SEU PROXIMO MONSTRO =====
+2 - Aquoryn | HP: 100/100
+3 - Rokke | HP: 100/100
+Escolha: Proximo monstro escolhido: Aquoryn
+
+Voce enviou Aquoryn!
+
+========== STATUS ==========
+Aquoryn: 100/100 HP VS Drakthor: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Aquoryn:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+Digite sua escolha: Habilidade escolhida: Tsunami Fang
+
+Aquoryn usou Tsunami Fang!
+Drakthor recebeu 40 de dano!
+HP restante de Drakthor: 60/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Aquoryn: 100/100 HP VS Drakthor: 60/100 HP
+============================
+
+Drakthor do adversario usou Earthquake!
+Aquoryn recebeu 45 de dano!
+HP restante de Aquoryn: 55/100
+
+========== STATUS ==========
+Aquoryn: 55/100 HP VS Drakthor: 60/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Aquoryn:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+Digite sua escolha: Habilidade escolhida: Tsunami Fang
+
+Aquoryn usou Tsunami Fang!
+Drakthor recebeu 40 de dano!
+HP restante de Drakthor: 20/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Aquoryn: 55/100 HP VS Drakthor: 20/100 HP
+============================
+
+Drakthor do adversario usou Earthquake!
+Aquoryn recebeu 45 de dano!
+HP restante de Aquoryn: 10/100
+
+========== STATUS ==========
+Aquoryn: 10/100 HP VS Drakthor: 20/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Aquoryn:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+Digite sua escolha: Habilidade escolhida: Aqua Spear
+
+Aquoryn usou Aqua Spear!
+Drakthor recebeu 25 de dano!
+HP restante de Drakthor: 0/100
+
+Drakthor foi derrotado!
+
+O adversario enviou Florantis!
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Aquoryn: 10/100 HP VS Florantis: 100/100 HP
+============================
+
+Florantis do adversario usou Carnivorous!
+Aquoryn recebeu 45 de dano!
+HP restante de Aquoryn: 0/100
+
+Aquoryn foi derrotado!
+
+===== ESCOLHA SEU PROXIMO MONSTRO =====
+3 - Rokke | HP: 100/100
+Escolha: Proximo monstro escolhido: Rokke
+
+Voce enviou Rokke!
+
+========== STATUS ==========
+Rokke: 100/100 HP VS Florantis: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+Digite sua escolha: Habilidade escolhida: Rolling Thunder
+
+Rokke usou Rolling Thunder!
+Florantis recebeu 50 de dano!
+HP restante de Florantis: 50/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Rokke: 100/100 HP VS Florantis: 50/100 HP
+============================
+
+Florantis do adversario usou Carnivorous!
+Rokke recebeu 45 de dano!
+HP restante de Rokke: 55/100
+
+========== STATUS ==========
+Rokke: 55/100 HP VS Florantis: 50/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+Digite sua escolha: Habilidade escolhida: Rolling Thunder
+
+Rokke usou Rolling Thunder!
+Florantis recebeu 50 de dano!
+HP restante de Florantis: 0/100
+
+========== FIM DA BATALHA ==========
+
+PARABENS! VOCE VENCEU!
+
+========== FIM DO REGISTRO ==========
+
+
+========================================
+REGISTRO DE BATALHA
+Data: Sat Nov 21 20:57:21 2026
+========================================
+
+========== NOVA BATALHA ==========
+Jogador: Clara
+
+===== JOGADOR: ESCOLHA 3 MONSTROS =====
+
+1 - Vulkarn
+Tipo: Fogo
+HP: 100/100
+Habilidades:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+----------------------
+
+2 - Aquoryn
+Tipo: Agua
+HP: 100/100
+Habilidades:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+----------------------
+
+3 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+Habilidades:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+----------------------
+
+4 - Noctyra
+Tipo: Trevas
+HP: 100/100
+Habilidades:
+1 - Shadow Claw | Dano: 28
+2 - Abyssal Bite | Dano: 42
+----------------------
+
+5 - Florantis
+Tipo: Natureza
+HP: 100/100
+Habilidades:
+1 - Thorn Shot | Dano: 25
+2 - Carnivorous | Dano: 45
+----------------------
+
+6 - Cryonox
+Tipo: Gelo
+HP: 100/100
+Habilidades:
+1 - Frost Claw | Dano: 32
+2 - Absolute Zero | Dano: 48
+----------------------
+
+7 - Drakthor
+Tipo: Terra
+HP: 100/100
+Habilidades:
+1 - Boulder Smash | Dano: 30
+2 - Earthquake | Dano: 45
+----------------------
+Escolha um monstro (1 a 7): Escolha registrada: Vulkarn
+Vulkarn foi adicionado a equipe.
+Escolha um monstro (1 a 7): Escolha registrada: Florantis
+Florantis foi adicionado a equipe.
+Escolha um monstro (1 a 7): Escolha registrada: Drakthor
+Drakthor foi adicionado a equipe.
+
+===== EQUIPE DO JOGADOR =====
+
+1 - Vulkarn
+Tipo: Fogo
+HP: 100/100
+----------------------
+
+2 - Florantis
+Tipo: Natureza
+HP: 100/100
+----------------------
+
+3 - Drakthor
+Tipo: Terra
+HP: 100/100
+----------------------
+
+===== EQUIPE DO CPU =====
+
+1 - Florantis
+Tipo: Natureza
+HP: 100/100
+----------------------
+
+2 - Noctyra
+Tipo: Trevas
+HP: 100/100
+----------------------
+
+3 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+----------------------
+
+========== INICIO DA BATALHA ==========
+
+========== STATUS ==========
+Vulkarn: 100/100 HP VS Florantis: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Vulkarn:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+Digite sua escolha: Habilidade escolhida: Inferno Crush
+
+Vulkarn usou Inferno Crush!
+Florantis recebeu 45 de dano!
+HP restante de Florantis: 55/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Vulkarn: 100/100 HP VS Florantis: 55/100 HP
+============================
+
+Florantis do adversario usou Thorn Shot!
+Vulkarn recebeu 25 de dano!
+HP restante de Vulkarn: 75/100
+
+========== STATUS ==========
+Vulkarn: 75/100 HP VS Florantis: 55/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Vulkarn:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+Digite sua escolha: Habilidade escolhida: Inferno Crush
+
+Vulkarn usou Inferno Crush!
+Florantis recebeu 45 de dano!
+HP restante de Florantis: 10/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Vulkarn: 75/100 HP VS Florantis: 10/100 HP
+============================
+
+Florantis do adversario usou Thorn Shot!
+Vulkarn recebeu 25 de dano!
+HP restante de Vulkarn: 50/100
+
+========== STATUS ==========
+Vulkarn: 50/100 HP VS Florantis: 10/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Vulkarn:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+Digite sua escolha: Habilidade escolhida: Inferno Crush
+
+Vulkarn usou Inferno Crush!
+Florantis recebeu 45 de dano!
+HP restante de Florantis: 0/100
+
+Florantis foi derrotado!
+
+O adversario enviou Noctyra!
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Vulkarn: 50/100 HP VS Noctyra: 100/100 HP
+============================
+
+Noctyra do adversario usou Abyssal Bite!
+Vulkarn recebeu 42 de dano!
+HP restante de Vulkarn: 8/100
+
+========== STATUS ==========
+Vulkarn: 8/100 HP VS Noctyra: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Vulkarn:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+Digite sua escolha: Habilidade escolhida: Inferno Crush
+
+Vulkarn usou Inferno Crush!
+Noctyra recebeu 45 de dano!
+HP restante de Noctyra: 55/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Vulkarn: 8/100 HP VS Noctyra: 55/100 HP
+============================
+
+Noctyra do adversario usou Shadow Claw!
+Vulkarn recebeu 28 de dano!
+HP restante de Vulkarn: 0/100
+
+Vulkarn foi derrotado!
+
+===== ESCOLHA SEU PROXIMO MONSTRO =====
+2 - Florantis | HP: 100/100
+3 - Drakthor | HP: 100/100
+Escolha: Proximo monstro escolhido: Florantis
+
+Voce enviou Florantis!
+
+========== STATUS ==========
+Florantis: 100/100 HP VS Noctyra: 55/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Florantis:
+1 - Thorn Shot | Dano: 25
+2 - Carnivorous | Dano: 45
+Digite sua escolha: Habilidade escolhida: Carnivorous
+
+Florantis usou Carnivorous!
+Noctyra recebeu 45 de dano!
+HP restante de Noctyra: 10/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Florantis: 100/100 HP VS Noctyra: 10/100 HP
+============================
+
+Noctyra do adversario usou Abyssal Bite!
+Florantis recebeu 42 de dano!
+HP restante de Florantis: 58/100
+
+========== STATUS ==========
+Florantis: 58/100 HP VS Noctyra: 10/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Florantis:
+1 - Thorn Shot | Dano: 25
+2 - Carnivorous | Dano: 45
+Digite sua escolha: Habilidade escolhida: Carnivorous
+
+Florantis usou Carnivorous!
+Noctyra recebeu 45 de dano!
+HP restante de Noctyra: 0/100
+
+Noctyra foi derrotado!
+
+O adversario enviou Rokke!
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Florantis: 58/100 HP VS Rokke: 100/100 HP
+============================
+
+Rokke do adversario usou Rolling Thunder!
+Florantis recebeu 50 de dano!
+HP restante de Florantis: 8/100
+
+========== STATUS ==========
+Florantis: 8/100 HP VS Rokke: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Florantis:
+1 - Thorn Shot | Dano: 25
+2 - Carnivorous | Dano: 45
+Digite sua escolha: Habilidade escolhida: Carnivorous
+
+Florantis usou Carnivorous!
+Rokke recebeu 45 de dano!
+HP restante de Rokke: 55/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Florantis: 8/100 HP VS Rokke: 55/100 HP
+============================
+
+Rokke do adversario usou Rolling Thunder!
+Florantis recebeu 50 de dano!
+HP restante de Florantis: 0/100
+
+Florantis foi derrotado!
+
+===== ESCOLHA SEU PROXIMO MONSTRO =====
+3 - Drakthor | HP: 100/100
+Escolha: Esse monstro ja foi derrotado!
+Escolha: Proximo monstro escolhido: Drakthor
+
+Voce enviou Drakthor!
+
+========== STATUS ==========
+Drakthor: 100/100 HP VS Rokke: 55/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Drakthor:
+1 - Boulder Smash | Dano: 30
+2 - Earthquake | Dano: 45
+Digite sua escolha: Habilidade escolhida: Earthquake
+
+Drakthor usou Earthquake!
+Rokke recebeu 45 de dano!
+HP restante de Rokke: 10/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Drakthor: 100/100 HP VS Rokke: 10/100 HP
+============================
+
+Rokke do adversario usou Thunderstorm!
+Drakthor recebeu 35 de dano!
+HP restante de Drakthor: 65/100
+
+========== STATUS ==========
+Drakthor: 65/100 HP VS Rokke: 10/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Drakthor:
+1 - Boulder Smash | Dano: 30
+2 - Earthquake | Dano: 45
+Digite sua escolha: Habilidade escolhida: Earthquake
+
+Drakthor usou Earthquake!
+Rokke recebeu 45 de dano!
+HP restante de Rokke: 0/100
+
+========== FIM DA BATALHA ==========
+
+PARABENS! VOCE VENCEU!
+
+========== FIM DO REGISTRO ==========
+
+
+========================================
+REGISTRO DE BATALHA
+Data: Sat Nov 21 21:01:40 2026
+========================================
+
+========== NOVA BATALHA ==========
+Jogador: Ana
+
+===== JOGADOR: ESCOLHA 3 MONSTROS =====
+
+1 - Vulkarn
+Tipo: Fogo
+HP: 100/100
+Habilidades:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+----------------------
+
+2 - Aquoryn
+Tipo: Agua
+HP: 100/100
+Habilidades:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+----------------------
+
+3 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+Habilidades:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+----------------------
+
+4 - Noctyra
+Tipo: Trevas
+HP: 100/100
+Habilidades:
+1 - Shadow Claw | Dano: 28
+2 - Abyssal Bite | Dano: 42
+----------------------
+
+5 - Florantis
+Tipo: Natureza
+HP: 100/100
+Habilidades:
+1 - Thorn Shot | Dano: 25
+2 - Carnivorous | Dano: 45
+----------------------
+
+6 - Cryonox
+Tipo: Gelo
+HP: 100/100
+Habilidades:
+1 - Frost Claw | Dano: 32
+2 - Absolute Zero | Dano: 48
+----------------------
+
+7 - Drakthor
+Tipo: Terra
+HP: 100/100
+Habilidades:
+1 - Boulder Smash | Dano: 30
+2 - Earthquake | Dano: 45
+----------------------
+Escolha um monstro (1 a 7): Escolha registrada: Vulkarn
+Vulkarn foi adicionado a equipe.
+Escolha um monstro (1 a 7): Escolha registrada: Aquoryn
+Aquoryn foi adicionado a equipe.
+Escolha um monstro (1 a 7): Escolha registrada: Rokke
+Rokke foi adicionado a equipe.
+
+===== EQUIPE DO JOGADOR =====
+
+1 - Vulkarn
+Tipo: Fogo
+HP: 100/100
+----------------------
+
+2 - Aquoryn
+Tipo: Agua
+HP: 100/100
+----------------------
+
+3 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+----------------------
+
+===== EQUIPE DO CPU =====
+
+1 - Vulkarn
+Tipo: Fogo
+HP: 100/100
+----------------------
+
+2 - Noctyra
+Tipo: Trevas
+HP: 100/100
+----------------------
+
+3 - Cryonox
+Tipo: Gelo
+HP: 100/100
+----------------------
+
+========== INICIO DA BATALHA ==========
+
+========== STATUS ==========
+Vulkarn: 100/100 HP VS Vulkarn: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Vulkarn:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+Digite sua escolha: Habilidade escolhida: Lava Burst
+
+Vulkarn usou Lava Burst!
+Vulkarn recebeu 30 de dano!
+HP restante de Vulkarn: 70/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Vulkarn: 100/100 HP VS Vulkarn: 70/100 HP
+============================
+
+Vulkarn do adversario usou Inferno Crush!
+Vulkarn recebeu 45 de dano!
+HP restante de Vulkarn: 55/100
+
+========== STATUS ==========
+Vulkarn: 55/100 HP VS Vulkarn: 70/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Vulkarn:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+Digite sua escolha: Habilidade escolhida: Lava Burst
+
+Vulkarn usou Lava Burst!
+Vulkarn recebeu 30 de dano!
+HP restante de Vulkarn: 40/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Vulkarn: 55/100 HP VS Vulkarn: 40/100 HP
+============================
+
+Vulkarn do adversario usou Lava Burst!
+Vulkarn recebeu 30 de dano!
+HP restante de Vulkarn: 25/100
+
+========== STATUS ==========
+Vulkarn: 25/100 HP VS Vulkarn: 40/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Vulkarn:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+Digite sua escolha: Habilidade escolhida: Lava Burst
+
+Vulkarn usou Lava Burst!
+Vulkarn recebeu 30 de dano!
+HP restante de Vulkarn: 10/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Vulkarn: 25/100 HP VS Vulkarn: 10/100 HP
+============================
+
+Vulkarn do adversario usou Inferno Crush!
+Vulkarn recebeu 45 de dano!
+HP restante de Vulkarn: 0/100
+
+Vulkarn foi derrotado!
+
+===== ESCOLHA SEU PROXIMO MONSTRO =====
+2 - Aquoryn | HP: 100/100
+3 - Rokke | HP: 100/100
+Escolha: Esse monstro ja foi derrotado!
+Escolha: Proximo monstro escolhido: Aquoryn
+
+Voce enviou Aquoryn!
+
+========== STATUS ==========
+Aquoryn: 100/100 HP VS Vulkarn: 10/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Aquoryn:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+Digite sua escolha: Habilidade escolhida: Aqua Spear
+
+Aquoryn usou Aqua Spear!
+Vulkarn recebeu 25 de dano!
+HP restante de Vulkarn: 0/100
+
+Vulkarn foi derrotado!
+
+O adversario enviou Noctyra!
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Aquoryn: 100/100 HP VS Noctyra: 100/100 HP
+============================
+
+Noctyra do adversario usou Shadow Claw!
+Aquoryn recebeu 28 de dano!
+HP restante de Aquoryn: 72/100
+
+========== STATUS ==========
+Aquoryn: 72/100 HP VS Noctyra: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Aquoryn:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+Digite sua escolha: Habilidade escolhida: Aqua Spear
+
+Aquoryn usou Aqua Spear!
+Noctyra recebeu 25 de dano!
+HP restante de Noctyra: 75/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Aquoryn: 72/100 HP VS Noctyra: 75/100 HP
+============================
+
+Noctyra do adversario usou Abyssal Bite!
+Aquoryn recebeu 42 de dano!
+HP restante de Aquoryn: 30/100
+
+========== STATUS ==========
+Aquoryn: 30/100 HP VS Noctyra: 75/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Aquoryn:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+Digite sua escolha: Habilidade escolhida: Aqua Spear
+
+Aquoryn usou Aqua Spear!
+Noctyra recebeu 25 de dano!
+HP restante de Noctyra: 50/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Aquoryn: 30/100 HP VS Noctyra: 50/100 HP
+============================
+
+Noctyra do adversario usou Shadow Claw!
+Aquoryn recebeu 28 de dano!
+HP restante de Aquoryn: 2/100
+
+========== STATUS ==========
+Aquoryn: 2/100 HP VS Noctyra: 50/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Aquoryn:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+Digite sua escolha: Habilidade escolhida: Aqua Spear
+
+Aquoryn usou Aqua Spear!
+Noctyra recebeu 25 de dano!
+HP restante de Noctyra: 25/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Aquoryn: 2/100 HP VS Noctyra: 25/100 HP
+============================
+
+Noctyra do adversario usou Abyssal Bite!
+Aquoryn recebeu 42 de dano!
+HP restante de Aquoryn: 0/100
+
+Aquoryn foi derrotado!
+
+===== ESCOLHA SEU PROXIMO MONSTRO =====
+3 - Rokke | HP: 100/100
+Escolha: Proximo monstro escolhido: Rokke
+
+Voce enviou Rokke!
+
+========== STATUS ==========
+Rokke: 100/100 HP VS Noctyra: 25/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+Digite sua escolha: Habilidade escolhida: Thunderstorm
+
+Rokke usou Thunderstorm!
+Noctyra recebeu 35 de dano!
+HP restante de Noctyra: 0/100
+
+Noctyra foi derrotado!
+
+O adversario enviou Cryonox!
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Rokke: 100/100 HP VS Cryonox: 100/100 HP
+============================
+
+Cryonox do adversario usou Frost Claw!
+Rokke recebeu 32 de dano!
+HP restante de Rokke: 68/100
+
+========== STATUS ==========
+Rokke: 68/100 HP VS Cryonox: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+Digite sua escolha: Habilidade escolhida: Thunderstorm
+
+Rokke usou Thunderstorm!
+Cryonox recebeu 35 de dano!
+HP restante de Cryonox: 65/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Rokke: 68/100 HP VS Cryonox: 65/100 HP
+============================
+
+Cryonox do adversario usou Frost Claw!
+Rokke recebeu 32 de dano!
+HP restante de Rokke: 36/100
+
+========== STATUS ==========
+Rokke: 36/100 HP VS Cryonox: 65/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+Digite sua escolha: Habilidade escolhida: Thunderstorm
+
+Rokke usou Thunderstorm!
+Cryonox recebeu 35 de dano!
+HP restante de Cryonox: 30/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Rokke: 36/100 HP VS Cryonox: 30/100 HP
+============================
+
+Cryonox do adversario usou Absolute Zero!
+Rokke recebeu 48 de dano!
+HP restante de Rokke: 0/100
+
+========== FIM DA BATALHA ==========
+
+VOCE FOI DERROTADO! O ADVERSARIO VENCEU!
+
+========== FIM DO REGISTRO ==========
+
+
+========================================
+REGISTRO DE BATALHA
+Data: Sat Nov 21 21:03:55 2026
+========================================
+
+========== NOVA BATALHA ==========
+Jogador: CARLOS
+
+===== JOGADOR: ESCOLHA 3 MONSTROS =====
+
+1 - Vulkarn
+Tipo: Fogo
+HP: 100/100
+Habilidades:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+----------------------
+
+2 - Aquoryn
+Tipo: Agua
+HP: 100/100
+Habilidades:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+----------------------
+
+3 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+Habilidades:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+----------------------
+
+4 - Noctyra
+Tipo: Trevas
+HP: 100/100
+Habilidades:
+1 - Shadow Claw | Dano: 28
+2 - Abyssal Bite | Dano: 42
+----------------------
+
+5 - Florantis
+Tipo: Natureza
+HP: 100/100
+Habilidades:
+1 - Thorn Shot | Dano: 25
+2 - Carnivorous | Dano: 45
+----------------------
+
+6 - Cryonox
+Tipo: Gelo
+HP: 100/100
+Habilidades:
+1 - Frost Claw | Dano: 32
+2 - Absolute Zero | Dano: 48
+----------------------
+
+7 - Drakthor
+Tipo: Terra
+HP: 100/100
+Habilidades:
+1 - Boulder Smash | Dano: 30
+2 - Earthquake | Dano: 45
+----------------------
+Escolha um monstro (1 a 7): Escolha registrada: Vulkarn
+Vulkarn foi adicionado a equipe.
+Escolha um monstro (1 a 7): Escolha registrada: Aquoryn
+Aquoryn foi adicionado a equipe.
+Escolha um monstro (1 a 7): Escolha registrada: Rokke
+Rokke foi adicionado a equipe.
+
+===== EQUIPE DO JOGADOR =====
+
+1 - Vulkarn
+Tipo: Fogo
+HP: 100/100
+----------------------
+
+2 - Aquoryn
+Tipo: Agua
+HP: 100/100
+----------------------
+
+3 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+----------------------
+
+===== EQUIPE DO CPU =====
+
+1 - Vulkarn
+Tipo: Fogo
+HP: 100/100
+----------------------
+
+2 - Drakthor
+Tipo: Terra
+HP: 100/100
+----------------------
+
+3 - Aquoryn
+Tipo: Agua
+HP: 100/100
+----------------------
+
+========== INICIO DA BATALHA ==========
+
+========== STATUS ==========
+Vulkarn: 100/100 HP VS Vulkarn: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Vulkarn:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+Digite sua escolha: Habilidade escolhida: Lava Burst
+
+Vulkarn usou Lava Burst!
+Vulkarn recebeu 30 de dano!
+HP restante de Vulkarn: 70/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Vulkarn: 100/100 HP VS Vulkarn: 70/100 HP
+============================
+
+Vulkarn do adversario usou Lava Burst!
+Vulkarn recebeu 30 de dano!
+HP restante de Vulkarn: 70/100
+
+========== STATUS ==========
+Vulkarn: 70/100 HP VS Vulkarn: 70/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Vulkarn:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+Digite sua escolha: Habilidade escolhida: Inferno Crush
+
+Vulkarn usou Inferno Crush!
+Vulkarn recebeu 45 de dano!
+HP restante de Vulkarn: 25/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Vulkarn: 70/100 HP VS Vulkarn: 25/100 HP
+============================
+
+Vulkarn do adversario usou Inferno Crush!
+Vulkarn recebeu 45 de dano!
+HP restante de Vulkarn: 25/100
+
+========== STATUS ==========
+Vulkarn: 25/100 HP VS Vulkarn: 25/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Vulkarn:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+Digite sua escolha: Habilidade escolhida: Inferno Crush
+
+Vulkarn usou Inferno Crush!
+Vulkarn recebeu 45 de dano!
+HP restante de Vulkarn: 0/100
+
+Vulkarn foi derrotado!
+
+O adversario enviou Drakthor!
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Vulkarn: 25/100 HP VS Drakthor: 100/100 HP
+============================
+
+Drakthor do adversario usou Earthquake!
+Vulkarn recebeu 45 de dano!
+HP restante de Vulkarn: 0/100
+
+Vulkarn foi derrotado!
+
+===== ESCOLHA SEU PROXIMO MONSTRO =====
+2 - Aquoryn | HP: 100/100
+3 - Rokke | HP: 100/100
+Escolha: Proximo monstro escolhido: Aquoryn
+
+Voce enviou Aquoryn!
+
+========== STATUS ==========
+Aquoryn: 100/100 HP VS Drakthor: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Aquoryn:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+Digite sua escolha: Entrada invalida! Digite um numero entre 1 e 2.
+Digite sua escolha: Habilidade escolhida: Aqua Spear
+
+Aquoryn usou Aqua Spear!
+Drakthor recebeu 25 de dano!
+HP restante de Drakthor: 75/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Aquoryn: 100/100 HP VS Drakthor: 75/100 HP
+============================
+
+Drakthor do adversario usou Earthquake!
+Aquoryn recebeu 45 de dano!
+HP restante de Aquoryn: 55/100
+
+========== STATUS ==========
+Aquoryn: 55/100 HP VS Drakthor: 75/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Aquoryn:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+Digite sua escolha: Habilidade escolhida: Aqua Spear
+
+Aquoryn usou Aqua Spear!
+Drakthor recebeu 25 de dano!
+HP restante de Drakthor: 50/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Aquoryn: 55/100 HP VS Drakthor: 50/100 HP
+============================
+
+Drakthor do adversario usou Earthquake!
+Aquoryn recebeu 45 de dano!
+HP restante de Aquoryn: 10/100
+
+========== STATUS ==========
+Aquoryn: 10/100 HP VS Drakthor: 50/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Aquoryn:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+Digite sua escolha: Habilidade escolhida: Aqua Spear
+
+Aquoryn usou Aqua Spear!
+Drakthor recebeu 25 de dano!
+HP restante de Drakthor: 25/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Aquoryn: 10/100 HP VS Drakthor: 25/100 HP
+============================
+
+Drakthor do adversario usou Earthquake!
+Aquoryn recebeu 45 de dano!
+HP restante de Aquoryn: 0/100
+
+Aquoryn foi derrotado!
+
+===== ESCOLHA SEU PROXIMO MONSTRO =====
+3 - Rokke | HP: 100/100
+Escolha: Esse monstro ja foi derrotado!
+Escolha: Proximo monstro escolhido: Rokke
+
+Voce enviou Rokke!
+
+========== STATUS ==========
+Rokke: 100/100 HP VS Drakthor: 25/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+Digite sua escolha: Habilidade escolhida: Rolling Thunder
+
+Rokke usou Rolling Thunder!
+Drakthor recebeu 50 de dano!
+HP restante de Drakthor: 0/100
+
+Drakthor foi derrotado!
+
+O adversario enviou Aquoryn!
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Rokke: 100/100 HP VS Aquoryn: 100/100 HP
+============================
+
+Aquoryn do adversario usou Aqua Spear!
+Rokke recebeu 25 de dano!
+HP restante de Rokke: 75/100
+
+========== STATUS ==========
+Rokke: 75/100 HP VS Aquoryn: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+Digite sua escolha: Habilidade escolhida: Rolling Thunder
+
+Rokke usou Rolling Thunder!
+Aquoryn recebeu 50 de dano!
+HP restante de Aquoryn: 50/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Rokke: 75/100 HP VS Aquoryn: 50/100 HP
+============================
+
+Aquoryn do adversario usou Tsunami Fang!
+Rokke recebeu 40 de dano!
+HP restante de Rokke: 35/100
+
+========== STATUS ==========
+Rokke: 35/100 HP VS Aquoryn: 50/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+Digite sua escolha: Habilidade escolhida: Rolling Thunder
+
+Rokke usou Rolling Thunder!
+Aquoryn recebeu 50 de dano!
+HP restante de Aquoryn: 0/100
+
+========== FIM DA BATALHA ==========
+
+PARABENS! VOCE VENCEU!
+
+========== FIM DO REGISTRO ==========
+
+
+========================================
+REGISTRO DE BATALHA
+Data: Sat Nov 21 22:50:40 2026
+========================================
+
+========== NOVA BATALHA ==========
+Jogador: Clara
+
+===== JOGADOR: ESCOLHA 3 MONSTROS =====
+
+1 - Vulkarn
+Tipo: Fogo
+HP: 100/100
+Habilidades:
+1 - Lava Burst | Dano: 30
+2 - Inferno Crush | Dano: 45
+----------------------
+
+2 - Aquoryn
+Tipo: Agua
+HP: 100/100
+Habilidades:
+1 - Aqua Spear | Dano: 25
+2 - Tsunami Fang | Dano: 40
+----------------------
+
+3 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+Habilidades:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+----------------------
+
+4 - Noctyra
+Tipo: Trevas
+HP: 100/100
+Habilidades:
+1 - Shadow Claw | Dano: 28
+2 - Abyssal Bite | Dano: 42
+----------------------
+
+5 - Florantis
+Tipo: Natureza
+HP: 100/100
+Habilidades:
+1 - Thorn Shot | Dano: 25
+2 - Carnivorous | Dano: 45
+----------------------
+
+6 - Cryonox
+Tipo: Gelo
+HP: 100/100
+Habilidades:
+1 - Frost Claw | Dano: 32
+2 - Absolute Zero | Dano: 48
+----------------------
+
+7 - Drakthor
+Tipo: Terra
+HP: 100/100
+Habilidades:
+1 - Boulder Smash | Dano: 30
+2 - Earthquake | Dano: 45
+----------------------
+Escolha um monstro (1 a 7): Escolha registrada: Rokke
+Rokke foi adicionado a equipe.
+Escolha um monstro (1 a 7): Escolha registrada: Cryonox
+Cryonox foi adicionado a equipe.
+Escolha um monstro (1 a 7): Escolha registrada: Drakthor
+Drakthor foi adicionado a equipe.
+
+===== EQUIPE DO JOGADOR =====
+
+1 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+----------------------
+
+2 - Cryonox
+Tipo: Gelo
+HP: 100/100
+----------------------
+
+3 - Drakthor
+Tipo: Terra
+HP: 100/100
+----------------------
+
+===== EQUIPE DO CPU =====
+
+1 - Noctyra
+Tipo: Trevas
+HP: 100/100
+----------------------
+
+2 - Rokke
+Tipo: Eletricidade
+HP: 100/100
+----------------------
+
+3 - Drakthor
+Tipo: Terra
+HP: 100/100
+----------------------
+
+========== INICIO DA BATALHA ==========
+
+========== STATUS ==========
+Rokke: 100/100 HP VS Noctyra: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+3 - Salvar partida e voltar ao menu
+Digite sua escolha: Habilidade escolhida: Rolling Thunder
+
+Rokke usou Rolling Thunder!
+Noctyra recebeu 50 de dano!
+HP restante de Noctyra: 50/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Rokke: 100/100 HP VS Noctyra: 50/100 HP
+============================
+
+Noctyra do adversario usou Shadow Claw!
+Rokke recebeu 28 de dano!
+HP restante de Rokke: 72/100
+
+========== STATUS ==========
+Rokke: 72/100 HP VS Noctyra: 50/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+3 - Salvar partida e voltar ao menu
+Digite sua escolha: Habilidade escolhida: Rolling Thunder
+
+Rokke usou Rolling Thunder!
+Noctyra recebeu 50 de dano!
+HP restante de Noctyra: 0/100
+
+Noctyra foi derrotado!
+
+O adversario enviou Rokke!
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Rokke: 72/100 HP VS Rokke: 100/100 HP
+============================
+
+Rokke do adversario usou Rolling Thunder!
+Rokke recebeu 50 de dano!
+HP restante de Rokke: 22/100
+
+========== STATUS ==========
+Rokke: 22/100 HP VS Rokke: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+3 - Salvar partida e voltar ao menu
+Digite sua escolha: 
+Partida salva em savegame.bin! Use 'Continuar partida salva' no menu.
+
+========== FIM DO REGISTRO ==========
+
+
+========================================
+REGISTRO DE BATALHA
+Data: Sat Nov 21 22:52:45 2026
+========================================
+
+========== PARTIDA RETOMADA ==========
+Jogador: Clara
+
+========== STATUS ==========
+Rokke: 22/100 HP VS Rokke: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Rokke:
+1 - Thunderstorm | Dano: 35
+2 - Rolling Thunder | Dano: 50
+3 - Salvar partida e voltar ao menu
+Digite sua escolha: Habilidade escolhida: Rolling Thunder
+
+Rokke usou Rolling Thunder!
+Rokke recebeu 50 de dano!
+HP restante de Rokke: 50/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Rokke: 22/100 HP VS Rokke: 50/100 HP
+============================
+
+Rokke do adversario usou Rolling Thunder!
+Rokke recebeu 50 de dano!
+HP restante de Rokke: 0/100
+
+Rokke foi derrotado!
+
+===== ESCOLHA SEU PROXIMO MONSTRO =====
+2 - Cryonox | HP: 100/100
+3 - Drakthor | HP: 100/100
+Escolha: Proximo monstro escolhido: Cryonox
+
+Voce enviou Cryonox!
+
+========== STATUS ==========
+Cryonox: 100/100 HP VS Rokke: 50/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Cryonox:
+1 - Frost Claw | Dano: 32
+2 - Absolute Zero | Dano: 48
+3 - Salvar partida e voltar ao menu
+Digite sua escolha: Habilidade escolhida: Absolute Zero
+
+Cryonox usou Absolute Zero!
+Rokke recebeu 48 de dano!
+HP restante de Rokke: 2/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Cryonox: 100/100 HP VS Rokke: 2/100 HP
+============================
+
+Rokke do adversario usou Rolling Thunder!
+Cryonox recebeu 50 de dano!
+HP restante de Cryonox: 50/100
+
+========== STATUS ==========
+Cryonox: 50/100 HP VS Rokke: 2/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Cryonox:
+1 - Frost Claw | Dano: 32
+2 - Absolute Zero | Dano: 48
+3 - Salvar partida e voltar ao menu
+Digite sua escolha: Habilidade escolhida: Absolute Zero
+
+Cryonox usou Absolute Zero!
+Rokke recebeu 48 de dano!
+HP restante de Rokke: 0/100
+
+Rokke foi derrotado!
+
+O adversario enviou Drakthor!
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Cryonox: 50/100 HP VS Drakthor: 100/100 HP
+============================
+
+Drakthor do adversario usou Boulder Smash!
+Cryonox recebeu 30 de dano!
+HP restante de Cryonox: 20/100
+
+========== STATUS ==========
+Cryonox: 20/100 HP VS Drakthor: 100/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Cryonox:
+1 - Frost Claw | Dano: 32
+2 - Absolute Zero | Dano: 48
+3 - Salvar partida e voltar ao menu
+Digite sua escolha: Habilidade escolhida: Absolute Zero
+
+Cryonox usou Absolute Zero!
+Drakthor recebeu 48 de dano!
+HP restante de Drakthor: 52/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Cryonox: 20/100 HP VS Drakthor: 52/100 HP
+============================
+
+Drakthor do adversario usou Earthquake!
+Cryonox recebeu 45 de dano!
+HP restante de Cryonox: 0/100
+
+Cryonox foi derrotado!
+
+===== ESCOLHA SEU PROXIMO MONSTRO =====
+3 - Drakthor | HP: 100/100
+Escolha: Proximo monstro escolhido: Drakthor
+
+Voce enviou Drakthor!
+
+========== STATUS ==========
+Drakthor: 100/100 HP VS Drakthor: 52/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Drakthor:
+1 - Boulder Smash | Dano: 30
+2 - Earthquake | Dano: 45
+3 - Salvar partida e voltar ao menu
+Digite sua escolha: Habilidade escolhida: Earthquake
+
+Drakthor usou Earthquake!
+Drakthor recebeu 45 de dano!
+HP restante de Drakthor: 7/100
+
+===== TURNO DO ADVERSARIO =====
+
+========== STATUS ==========
+Drakthor: 100/100 HP VS Drakthor: 7/100 HP
+============================
+
+Drakthor do adversario usou Earthquake!
+Drakthor recebeu 45 de dano!
+HP restante de Drakthor: 55/100
+
+========== STATUS ==========
+Drakthor: 55/100 HP VS Drakthor: 7/100 HP
+============================
+
+===== SEU TURNO =====
+
+Escolha uma habilidade de Drakthor:
+1 - Boulder Smash | Dano: 30
+2 - Earthquake | Dano: 45
+3 - Salvar partida e voltar ao menu
+Digite sua escolha: Habilidade escolhida: Earthquake
+
+Drakthor usou Earthquake!
+Drakthor recebeu 45 de dano!
+HP restante de Drakthor: 0/100
+
+========== FIM DA BATALHA ==========
+
+PARABENS! VOCE VENCEU!
+
+========== FIM DO REGISTRO ==========
