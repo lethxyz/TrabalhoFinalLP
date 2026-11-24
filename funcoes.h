@@ -31,6 +31,15 @@
 /* indice devolvido por escolherHabilidade() para "salvar e voltar" */
 #define ACAO_SALVAR 2
 
+/*Tempo entre os printf para melhor visibilidade*/
+#ifdef _WIN32
+    #include <windows.h>
+    #define PAUSA(ms) Sleep(ms)
+#else
+    #include <unistd.h>
+    #define PAUSA(ms) usleep((ms) * 1000)
+#endif
+
 /* ---------- structs ---------- */
 
 typedef struct {

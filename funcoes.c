@@ -15,6 +15,8 @@ void registrarPrintf(const char *formato, ...) {
     va_copy(copia, argumentos);
 
     vprintf(formato, argumentos);
+    fflush(stdout); // O texto vai aparecer na tela mesmo sem \n
+    PAUSA(500);     // Pausa por 500ms
 
     if (arquivoBatalha != NULL) {
         vfprintf(arquivoBatalha, formato, copia);
@@ -111,14 +113,15 @@ void exibirMenu(void) {
 }
 
 void exibirTutorial(void) {
-    printf("\n--TUTORIAL--\n");
-    printf("Elemental Clash: escolha tres monstros e enfrente a equipe adversaria.\n");
-    printf("Cada monstro possui duas habilidades com danos diferentes.\n");
-    printf("Vence quem derrotar os tres monstros da equipe adversaria.\n");
-    printf("Durante a batalha, escolha a opcao 3 para salvar a partida e voltar ao menu.\n");
-    printf("Use 'Continuar partida salva' no menu para retomar de onde parou.\n");
-    printf("Cada vitoria vale +%d pontos e cada derrota -%d no ranking.\n",
-           PONTOS_VITORIA, PONTOS_DERROTA);
+    printf("\n|-----------------------------------TUTORIAL-----------------------------------|\n"
+             "|    Elemental Clash: escolha tres monstros e enfrente a equipe adversaria!    |\n"
+             "|                                                                              |\n"
+             "|          Cada monstro possui duas habilidades com danos diferentes.          |\n"
+             "|          Vence quem derrotar os tres monstros da equipe adversaria.          |\n"
+             "| Durante a batalha, escolha a opcao 3 para salvar a partida e voltar ao menu. |\n"
+             "|      Use 'Continuar partida salva' no menu para retomar de onde parou.       |\n"
+             "|          Cada vitoria vale +%d pontos e cada derrota -%d no ranking.           |\n",
+            PONTOS_VITORIA, PONTOS_DERROTA);
 }
 
 void exibirMonstros(Monstro monstros[]) {
@@ -139,11 +142,11 @@ void exibirMonstros(Monstro monstros[]) {
 }
 
 void exibirStatus(Monstro *jogador, Monstro *inimigo) {
-    printf("\n========== STATUS ==========\n");
+    printf("\n================= STATUS =================\n");
     printf("%s: %d/%d HP VS %s: %d/%d HP\n",
            jogador->nome, jogador->hp, jogador->maxHp,
            inimigo->nome, inimigo->hp, inimigo->maxHp);
-    printf("============================\n");
+    printf("==========================================\n");
 }
 
 void exibirEquipe(Monstro monstros[], int equipe[], const char *nome) {
