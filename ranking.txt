@@ -1,5 +1,5 @@
+lee 30
 Carlos 25
-lee 25
 Ana 22
 Beatriz 15
 Diego 10
