@@ -16,7 +16,7 @@ void registrarPrintf(const char *formato, ...) {
 
     vprintf(formato, argumentos);
     fflush(stdout); // O texto vai aparecer na tela mesmo sem \n
-    PAUSA(500);     // Pausa por 500ms
+    PAUSA(250);     // Pausa por 500ms
 
     if (arquivoBatalha != NULL) {
         vfprintf(arquivoBatalha, formato, copia);
