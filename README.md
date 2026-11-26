@@ -62,16 +62,15 @@ dos lados forem derrotados.
 
 ## Pausa entre as mensagens
 
-Cada mensagem do jogo espera 500 ms antes da próxima, para facilitar a leitura da
-batalha. Este trecho foi adicionado depois da produção do relatório e do
-`Testes_e_Contribuicoes.pdf`, por Lethycia Renovato de Medeiros.
+Cada mensagem do jogo espera 250 ms antes da próxima, para facilitar a leitura da
+batalha.
 
 | Item | Detalhe |
 |---|---|
 | Macro | `PAUSA(ms)`, definida em `funcoes.h` |
 | Windows (`_WIN32`) | `#include <windows.h>` e `Sleep(ms)` |
 | Linux / WSL / outros | `#include <unistd.h>` e `usleep((ms) * 1000)` |
-| Onde é aplicada | `registrarPrintf` (`funcoes.c`), depois do `vprintf`: `fflush(stdout)` e `PAUSA(500)` |
+| Onde é aplicada | `registrarPrintf` (`funcoes.c`), depois do `vprintf`: `fflush(stdout)` e `PAUSA(250)` |
 
 Como `funcoes.h` redefine `printf` para `registrarPrintf`, todo `printf` do jogo (menu,
 tutorial, escolhas, turnos e ranking) passa pela pausa. A escolha entre `windows.h` e
@@ -83,7 +82,7 @@ tempo, altere o valor passado a `PAUSA` em `registrarPrintf`.
 | Arquivo | Conteúdo |
 |---|---|
 | `main.c` | dados dos monstros, menu e laço principal |
-| `funcoes.c` | lógica do jogo: batalha, ranking, salvamento, validação de entradas; pausa de 500 ms entre as mensagens (`registrarPrintf`) |
+| `funcoes.c` | lógica do jogo: batalha, ranking, salvamento, validação de entradas; pausa de 250 ms entre as mensagens (`registrarPrintf`) |
 | `funcoes.h` | constantes, structs (`Habilidade`, `Monstro`, `Jogador`, `EstadoPartida`) e protótipos; macro `PAUSA` (`windows.h` / `unistd.h`) |
 | `Makefile` | compilação com `-Wall -Wextra` |
 | `Testes_e_Contribuicoes.pdf` | casos de teste (T1 a T8), registro de resultados e histórico de contribuições |
@@ -115,8 +114,4 @@ contribuições de cada integrante.
 - Ana Clara Rodrigues Leite - 599022
 - Kaio Daniel Lima Costa - 581966
 - Lethycia Renovato de Medeiros - 601382
-- Sofia de Sousa - 599545
-
-Contribuição adicionada depois do material escrito: pausa entre as mensagens
-(`PAUSA`, com `windows.h` e `unistd.h`, e `fflush`/`PAUSA(500)` em `registrarPrintf`),
-por Lethycia Renovato de Medeiros - 601382.
+- Sofia de Sousa Santos - 599545
